@@ -1,0 +1,2 @@
+# Barometric_Pressure_Forecast_Widget_for_Pythonista-3
+Pythonista 3を利用して、iPhoneのGPSと連動し、現在地の低気圧推移（12時間先まで）をグラフ表示するツールです。
